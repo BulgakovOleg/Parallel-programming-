@@ -45,14 +45,15 @@
 
 Проанализируем на графиках отношений как именно меняются значения в зависимости от размера выполняемой задачи:
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/1ec940dd-ae22-4523-a1af-d8710db2db69" />
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/2f28235e-c9c7-4b25-9267-ac817c0d687a" />
+
+
+<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/49fb818c-91e6-4c81-93ed-83eed61863ce" />
 
 
 
-<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/842c3f98-f31d-4d98-92dc-bf3f37c482a8" />
 
-
-
+Рассмотрев графики отношений можно прийти к выводу о том, что 
 
 
 
