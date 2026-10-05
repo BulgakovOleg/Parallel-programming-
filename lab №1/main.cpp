@@ -101,7 +101,7 @@ void conclusion(int N, int num_threads, double duration_ms, double total_mem_mb)
               << "==========================================================\n";
 }
 
-int main(int argc, char* argv[]) {
+int main() {
     int N = number_input();
     
     std::string fileA = "A_" + std::to_string(N) + ".txt";
