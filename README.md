@@ -35,8 +35,7 @@
 - Изучение результатов:
 В ходе анализа были выделены следующие результаты:
 
-<img width="1308" height="169" alt="image" src="https://github.com/user-attachments/assets/e5857f9a-ed1f-41e7-bf6e-e1f5ef623352" />
-
+<img width="1308" height="145" alt="image" src="https://github.com/user-attachments/assets/c32c02c7-e8f0-4659-a61e-edeaec899fe0" />
 
 
  
